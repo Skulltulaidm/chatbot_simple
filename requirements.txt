@@ -1,0 +1,12 @@
+streamlit
+watchdog
+langchain
+langchain-openai
+langchain-community
+openai
+pandas
+openpyxl
+python-docx
+PyMuPDF
+Pillow
+tiktoken
